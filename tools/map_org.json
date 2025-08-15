@@ -1,0 +1,308 @@
+{
+  "200": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with light rain",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-rain.svg"
+  },
+  "201": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with rain",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-overcast-rain.svg"
+  },
+  "202": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with heavy rain",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-extreme-rain.svg"
+  },
+  "210": {
+    "group": "Thunderstorm",
+    "condition": "light thunderstorm",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms.svg"
+  },
+  "211": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-overcast.svg"
+  },
+  "212": {
+    "group": "Thunderstorm",
+    "condition": "heavy thunderstorm",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-extreme.svg"
+  },
+  "221": {
+    "group": "Thunderstorm",
+    "condition": "ragged thunderstorm",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-extreme.svg"
+  },
+  "230": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with light drizzle",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-day-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-night-rain.svg"
+  },
+  "231": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with drizzle",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-day-overcast-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-night-overcast-rain.svg"
+  },
+  "232": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with heavy drizzle",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-day-extreme-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/thunderstorms-night-extreme-rain.svg"
+  },
+  "300": {
+    "group": "Drizzle",
+    "condition": "light intensity drizzle",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-drizzle.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night-drizzle.svg"
+  },
+  "301": {
+    "group": "Drizzle",
+    "condition": "drizzle",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/drizzle.svg"
+  },
+  "302": {
+    "group": "Drizzle",
+    "condition": "heavy intensity drizzle",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-drizzle.svg"
+  },
+  "310": {
+    "group": "Drizzle",
+    "condition": "light intensity drizzle rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night-rain.svg"
+  },
+  "311": {
+    "group": "Drizzle",
+    "condition": "drizzle rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/rain.svg"
+  },
+  "312": {
+    "group": "Drizzle",
+    "condition": "heavy intensity drizzle rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-rain.svg"
+  },
+  "313": {
+    "group": "Drizzle",
+    "condition": "shower rain and drizzle",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-rain.svg"
+  },
+  "314": {
+    "group": "Drizzle",
+    "condition": "heavy shower rain and drizzle",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-drizzle.svg"
+  },
+  "321": {
+    "group": "Drizzle",
+    "condition": "shower drizzle",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-drizzle.svg"
+  },
+  "500": {
+    "group": "Rain",
+    "condition": "light rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/rain.svg"
+  },
+  "501": {
+    "group": "Rain",
+    "condition": "moderate rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-rain.svg"
+  },
+  "502": {
+    "group": "Rain",
+    "condition": "heavy intensity rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-rain.svg"
+  },
+  "503": {
+    "group": "Rain",
+    "condition": "very heavy rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-rain.svg"
+  },
+  "504": {
+    "group": "Rain",
+    "condition": "extreme rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-rain.svg"
+  },
+  "511": {
+    "group": "Rain",
+    "condition": "freezing rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/sleet.svg"
+  },
+  "520": {
+    "group": "Rain",
+    "condition": "light intensity shower rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night-rain.svg"
+  },
+  "521": {
+    "group": "Rain",
+    "condition": "shower rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-day-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-night-rain.svg"
+  },
+  "522": {
+    "group": "Rain",
+    "condition": "heavy intensity shower rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-day-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-night-rain.svg"
+  },
+  "531": {
+    "group": "Rain",
+    "condition": "ragged shower rain",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-day-rain.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-night-rain.svg"
+  },
+  "600": {
+    "group": "Snow",
+    "condition": "light snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-snow.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night-snow.svg"
+  },
+  "601": {
+    "group": "Snow",
+    "condition": "snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/snow.svg"
+  },
+  "602": {
+    "group": "Snow",
+    "condition": "heavy snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-snow.svg"
+  },
+  "611": {
+    "group": "Snow",
+    "condition": "sleet",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/sleet.svg"
+  },
+  "612": {
+    "group": "Snow",
+    "condition": "light shower sleet",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-sleet.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night-sleet.svg"
+  },
+  "613": {
+    "group": "Snow",
+    "condition": "shower sleet",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/sleet.svg"
+  },
+  "615": {
+    "group": "Snow",
+    "condition": "light rain and snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-sleet.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night-sleet.svg"
+  },
+  "616": {
+    "group": "Snow",
+    "condition": "rain and snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/sleet.svg"
+  },
+  "620": {
+    "group": "Snow",
+    "condition": "light shower snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day-snow.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night-snow.svg"
+  },
+  "621": {
+    "group": "Snow",
+    "condition": "shower snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-snow.svg"
+  },
+  "622": {
+    "group": "Snow",
+    "condition": "heavy shower snow",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/extreme-snow.svg"
+  },
+  "701": {
+    "group": "Atmosphere",
+    "condition": "mist",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/mist.svg"
+  },
+  "711": {
+    "group": "Atmosphere",
+    "condition": "smoke",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/smoke.svg"
+  },
+  "721": {
+    "group": "Atmosphere",
+    "condition": "haze",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/haze.svg"
+  },
+  "731": {
+    "group": "Atmosphere",
+    "condition": "sand/dust whirls",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/dust-wind.svg"
+  },
+  "741": {
+    "group": "Atmosphere",
+    "condition": "fog",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/fog.svg"
+  },
+  "751": {
+    "group": "Atmosphere",
+    "condition": "sand",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/dust.svg"
+  },
+  "761": {
+    "group": "Atmosphere",
+    "condition": "dust",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/dust.svg"
+  },
+  "762": {
+    "group": "Atmosphere",
+    "condition": "volcanic ash",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/smoke.svg"
+  },
+  "771": {
+    "group": "Atmosphere",
+    "condition": "squalls",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/wind.svg"
+  },
+  "781": {
+    "group": "Atmosphere",
+    "condition": "tornado",
+    "fps_factor": 0.5,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/tornado.svg"
+  },
+  "800": {
+    "group": "Clear",
+    "condition": "clear sky",
+    "fps_factor": 2,
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/clear-day.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/clear-night.svg"
+  },
+  "801": {
+    "group": "Clouds",
+    "condition": "few clouds: 11-25%",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-night.svg"
+  },
+  "802": {
+    "group": "Clouds",
+    "condition": "scattered clouds: 25-50%",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-day.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-night.svg"
+  },
+  "803": {
+    "group": "Clouds",
+    "condition": "scattered clouds: 25-50%",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-day.svg",
+    "night_svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast-night.svg"
+  },
+  "804": {
+    "group": "Clouds",
+    "condition": "overcast clouds: 85-100%",
+    "svg_url": "https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/overcast.svg"
+  }
+}

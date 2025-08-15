@@ -1,0 +1,459 @@
+{
+  "200": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with light rain",
+    "sky_color": {
+      "day": "#2269b1",
+      "night": "#07304e"
+    }
+  },
+  "201": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with rain",
+    "sky_color": {
+      "day": "#336da7",
+      "night": "#0e2c47"
+    }
+  },
+  "202": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with heavy rain",
+    "sky_color": {
+      "day": "#406f9f",
+      "night": "#132a42"
+    }
+  },
+  "210": {
+    "group": "Thunderstorm",
+    "condition": "light thunderstorm",
+    "sky_color": {
+      "day": "#2269b1",
+      "night": "#07304e"
+    }
+  },
+  "211": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm",
+    "sky_color": {
+      "day": "#336da7",
+      "night": "#0e2c47"
+    }
+  },
+  "212": {
+    "group": "Thunderstorm",
+    "condition": "heavy thunderstorm",
+    "sky_color": {
+      "day": "#406f9f",
+      "night": "#132a42"
+    }
+  },
+  "221": {
+    "group": "Thunderstorm",
+    "condition": "ragged thunderstorm",
+    "sky_color": {
+      "day": "#667788",
+      "night": "#222233"
+    }
+  },
+  "230": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with light drizzle",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#2269b1",
+      "night": "#07304e"
+    }
+  },
+  "231": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with drizzle",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#336da7",
+      "night": "#0e2c47"
+    }
+  },
+  "232": {
+    "group": "Thunderstorm",
+    "condition": "thunderstorm with heavy drizzle",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#406f9f",
+      "night": "#132a42"
+    }
+  },
+  "300": {
+    "group": "Drizzle",
+    "condition": "light intensity drizzle",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#8a99a8",
+      "night": "#1f2e3d"
+    }
+  },
+  "301": {
+    "group": "Drizzle",
+    "condition": "drizzle",
+    "sky_color": {
+      "day": "#7b8896",
+      "night": "#1b2936"
+    }
+  },
+  "302": {
+    "group": "Drizzle",
+    "condition": "heavy intensity drizzle",
+    "sky_color": {
+      "day": "#6f7b88",
+      "night": "#192531"
+    }
+  },
+  "310": {
+    "group": "Drizzle",
+    "condition": "light intensity drizzle rain",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#8a99a8",
+      "night": "#1f2e3d"
+    }
+  },
+  "311": {
+    "group": "Drizzle",
+    "condition": "drizzle rain",
+    "sky_color": {
+      "day": "#7b8896",
+      "night": "#1b2936"
+    }
+  },
+  "312": {
+    "group": "Drizzle",
+    "condition": "heavy intensity drizzle rain",
+    "sky_color": {
+      "day": "#6f7b88",
+      "night": "#192531"
+    }
+  },
+  "313": {
+    "group": "Drizzle",
+    "condition": "shower rain and drizzle",
+    "sky_color": {
+      "day": "#7b8896",
+      "night": "#1b2936"
+    }
+  },
+  "314": {
+    "group": "Drizzle",
+    "condition": "heavy shower rain and drizzle",
+    "sky_color": {
+      "day": "#6f7b88",
+      "night": "#192531"
+    }
+  },
+  "321": {
+    "group": "Drizzle",
+    "condition": "shower drizzle",
+    "sky_color": {
+      "day": "#7b8896",
+      "night": "#1b2936"
+    }
+  },
+  "500": {
+    "group": "Rain",
+    "condition": "light rain",
+    "sky_color": {
+      "day": "#8a99a8",
+      "night": "#1f2e3d"
+    }
+  },
+  "501": {
+    "group": "Rain",
+    "condition": "moderate rain",
+    "sky_color": {
+      "day": "#7b8896",
+      "night": "#1b2936"
+    }
+  },
+  "502": {
+    "group": "Rain",
+    "condition": "heavy intensity rain",
+    "sky_color": {
+      "day": "#6f7b88",
+      "night": "#192531"
+    }
+  },
+  "503": {
+    "group": "Rain",
+    "condition": "very heavy rain",
+    "sky_color": {
+      "day": "#646f7a",
+      "night": "#16222c"
+    }
+  },
+  "504": {
+    "group": "Rain",
+    "condition": "extreme rain",
+    "sky_color": {
+      "day": "#4d555e",
+      "night": "#111a22"
+    }
+  },
+  "511": {
+    "group": "Rain",
+    "condition": "freezing rain",
+    "sky_color": {
+      "day": "#7b8896",
+      "night": "#1b2936"
+    }
+  },
+  "520": {
+    "group": "Rain",
+    "condition": "light intensity shower rain",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#8a99a8",
+      "night": "#1f2e3d"
+    }
+  },
+  "521": {
+    "group": "Rain",
+    "condition": "shower rain",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#7b8896",
+      "night": "#1b2936"
+    }
+  },
+  "522": {
+    "group": "Rain",
+    "condition": "heavy intensity shower rain",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#6f7b88",
+      "night": "#192531"
+    }
+  },
+  "531": {
+    "group": "Rain",
+    "condition": "ragged shower rain",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#4d555e",
+      "night": "#111a22"
+    }
+  },
+  "600": {
+    "group": "Snow",
+    "condition": "light snow",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#b8b8b8",
+      "night": "#3d3d3d"
+    }
+  },
+  "601": {
+    "group": "Snow",
+    "condition": "snow",
+    "sky_color": {
+      "day": "#a3a3a3",
+      "night": "#363636"
+    }
+  },
+  "602": {
+    "group": "Snow",
+    "condition": "heavy snow",
+    "sky_color": {
+      "day": "#949494",
+      "night": "#313131"
+    }
+  },
+  "611": {
+    "group": "Snow",
+    "condition": "sleet",
+    "sky_color": {
+      "day": "#a3a3a3",
+      "night": "#363636"
+    }
+  },
+  "612": {
+    "group": "Snow",
+    "condition": "light shower sleet",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#b8b8b8",
+      "night": "#3d3d3d"
+    }
+  },
+  "613": {
+    "group": "Snow",
+    "condition": "shower sleet",
+    "sky_color": {
+      "day": "#a3a3a3",
+      "night": "#363636"
+    }
+  },
+  "615": {
+    "group": "Snow",
+    "condition": "light rain and snow",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#b8b8b8",
+      "night": "#3d3d3d"
+    }
+  },
+  "616": {
+    "group": "Snow",
+    "condition": "rain and snow",
+    "sky_color": {
+      "day": "#a3a3a3",
+      "night": "#363636"
+    }
+  },
+  "620": {
+    "group": "Snow",
+    "condition": "light shower snow",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#b8b8b8",
+      "night": "#3d3d3d"
+    }
+  },
+  "621": {
+    "group": "Snow",
+    "condition": "shower snow",
+    "sky_color": {
+      "day": "#a3a3a3",
+      "night": "#363636"
+    }
+  },
+  "622": {
+    "group": "Snow",
+    "condition": "heavy shower snow",
+    "sky_color": {
+      "day": "#949494",
+      "night": "#313131"
+    }
+  },
+  "701": {
+    "group": "Atmosphere",
+    "condition": "mist",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "711": {
+    "group": "Atmosphere",
+    "condition": "smoke",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "721": {
+    "group": "Atmosphere",
+    "condition": "haze",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "731": {
+    "group": "Atmosphere",
+    "condition": "sand/dust whirls",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "741": {
+    "group": "Atmosphere",
+    "condition": "fog",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "751": {
+    "group": "Atmosphere",
+    "condition": "sand",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "761": {
+    "group": "Atmosphere",
+    "condition": "dust",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "762": {
+    "group": "Atmosphere",
+    "condition": "volcanic ash",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "771": {
+    "group": "Atmosphere",
+    "condition": "squalls",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "781": {
+    "group": "Atmosphere",
+    "condition": "tornado",
+    "sky_color": {
+      "day": "#5c6b7b",
+      "night": "#1f1f2e"
+    }
+  },
+  "800": {
+    "group": "Clear",
+    "condition": "clear sky",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#1166bb",
+      "night": "#003355"
+    }
+  },
+  "801": {
+    "group": "Clouds",
+    "condition": "few clouds: 11-25%",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#1e69b3",
+      "night": "#053050"
+    }
+  },
+  "802": {
+    "group": "Clouds",
+    "condition": "scattered clouds: 25-50%",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#2f6ca9",
+      "night": "#0c2d49"
+    }
+  },
+  "803": {
+    "group": "Clouds",
+    "condition": "broken clouds: 51-84%",
+    "hasNightIcon": true,
+    "sky_color": {
+      "day": "#44709c",
+      "night": "#142941"
+    }
+  },
+  "804": {
+    "group": "Clouds",
+    "condition": "overcast clouds: 85-100%",
+    "sky_color": {
+      "day": "#557492",
+      "night": "#1b253a"
+    }
+  }
+}
