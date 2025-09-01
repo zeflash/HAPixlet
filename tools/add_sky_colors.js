@@ -1,14 +1,23 @@
 const fs = require('fs');
 
 /**
- * Converts a 3-digit hex color string (e.g., "#16B") to an RGB object.
- * @param {string} hex - The 3-digit hex color string.
+ * Converts a hex color string (e.g., "#16B" or "#1166BB") to an RGB object.
+ * @param {string} hex - The hex color string (3, 6, or 8-digit).
  * @returns {object} The RGB color object {r, g, b}.
  */
 function hexToRgb(hex) {
-  const r = parseInt(hex[1] + hex[1], 16);
-  const g = parseInt(hex[2] + hex[2], 16);
-  const b = parseInt(hex[3] + hex[3], 16);
+  let cleanHex = hex.startsWith('#') ? hex.slice(1) : hex;
+
+  // If it's a 3-digit hex, expand it
+  if (cleanHex.length === 3) {
+    cleanHex = cleanHex.split('').map(char => char + char).join('');
+  }
+
+  // We are only interested in RGB, so we take the first 6 characters
+  const r = parseInt(cleanHex.substring(0, 2), 16);
+  const g = parseInt(cleanHex.substring(2, 4), 16);
+  const b = parseInt(cleanHex.substring(4, 6), 16);
+
   return { r, g, b };
 }
 
@@ -27,7 +36,7 @@ function darken(color, factor) {
 }
 
 // --- Full Day/Night Color Palette ---
-const clearDay = hexToRgb('#16B');
+const clearDay = hexToRgb('#64a6e8ff');
 const clearNight = hexToRgb('#035');
 
 const cloudyDay = hexToRgb('#678');

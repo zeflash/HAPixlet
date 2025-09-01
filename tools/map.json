@@ -3,7 +3,7 @@
     "group": "Thunderstorm",
     "condition": "thunderstorm with light rain",
     "sky_color": {
-      "day": "#2269b1",
+      "day": "#649dd5",
       "night": "#07304e"
     }
   },
@@ -11,7 +11,7 @@
     "group": "Thunderstorm",
     "condition": "thunderstorm with rain",
     "sky_color": {
-      "day": "#336da7",
+      "day": "#6593c2",
       "night": "#0e2c47"
     }
   },
@@ -19,7 +19,7 @@
     "group": "Thunderstorm",
     "condition": "thunderstorm with heavy rain",
     "sky_color": {
-      "day": "#406f9f",
+      "day": "#658cb3",
       "night": "#132a42"
     }
   },
@@ -27,7 +27,7 @@
     "group": "Thunderstorm",
     "condition": "light thunderstorm",
     "sky_color": {
-      "day": "#2269b1",
+      "day": "#649dd5",
       "night": "#07304e"
     }
   },
@@ -35,7 +35,7 @@
     "group": "Thunderstorm",
     "condition": "thunderstorm",
     "sky_color": {
-      "day": "#336da7",
+      "day": "#6593c2",
       "night": "#0e2c47"
     }
   },
@@ -43,7 +43,7 @@
     "group": "Thunderstorm",
     "condition": "heavy thunderstorm",
     "sky_color": {
-      "day": "#406f9f",
+      "day": "#658cb3",
       "night": "#132a42"
     }
   },
@@ -58,34 +58,34 @@
   "230": {
     "group": "Thunderstorm",
     "condition": "thunderstorm with light drizzle",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
-      "day": "#2269b1",
+      "day": "#649dd5",
       "night": "#07304e"
     }
   },
   "231": {
     "group": "Thunderstorm",
     "condition": "thunderstorm with drizzle",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
-      "day": "#336da7",
+      "day": "#6593c2",
       "night": "#0e2c47"
     }
   },
   "232": {
     "group": "Thunderstorm",
     "condition": "thunderstorm with heavy drizzle",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
-      "day": "#406f9f",
+      "day": "#658cb3",
       "night": "#132a42"
     }
   },
   "300": {
     "group": "Drizzle",
     "condition": "light intensity drizzle",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#8a99a8",
       "night": "#1f2e3d"
@@ -110,7 +110,7 @@
   "310": {
     "group": "Drizzle",
     "condition": "light intensity drizzle rain",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#8a99a8",
       "night": "#1f2e3d"
@@ -207,7 +207,7 @@
   "520": {
     "group": "Rain",
     "condition": "light intensity shower rain",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#8a99a8",
       "night": "#1f2e3d"
@@ -216,7 +216,7 @@
   "521": {
     "group": "Rain",
     "condition": "shower rain",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#7b8896",
       "night": "#1b2936"
@@ -225,7 +225,7 @@
   "522": {
     "group": "Rain",
     "condition": "heavy intensity shower rain",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#6f7b88",
       "night": "#192531"
@@ -234,7 +234,7 @@
   "531": {
     "group": "Rain",
     "condition": "ragged shower rain",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#4d555e",
       "night": "#111a22"
@@ -243,7 +243,7 @@
   "600": {
     "group": "Snow",
     "condition": "light snow",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#b8b8b8",
       "night": "#3d3d3d"
@@ -276,7 +276,7 @@
   "612": {
     "group": "Snow",
     "condition": "light shower sleet",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#b8b8b8",
       "night": "#3d3d3d"
@@ -293,7 +293,7 @@
   "615": {
     "group": "Snow",
     "condition": "light rain and snow",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#b8b8b8",
       "night": "#3d3d3d"
@@ -310,7 +310,7 @@
   "620": {
     "group": "Snow",
     "condition": "light shower snow",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
       "day": "#b8b8b8",
       "night": "#3d3d3d"
@@ -415,36 +415,36 @@
   "800": {
     "group": "Clear",
     "condition": "clear sky",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
-      "day": "#1166bb",
+      "day": "#64a6e8",
       "night": "#003355"
     }
   },
   "801": {
     "group": "Clouds",
     "condition": "few clouds: 11-25%",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
-      "day": "#1e69b3",
+      "day": "#649fda",
       "night": "#053050"
     }
   },
   "802": {
     "group": "Clouds",
     "condition": "scattered clouds: 25-50%",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
-      "day": "#2f6ca9",
+      "day": "#6596c6",
       "night": "#0c2d49"
     }
   },
   "803": {
     "group": "Clouds",
     "condition": "broken clouds: 51-84%",
-    "hasNightIcon": true,
+    "has_night_icon": 1,
     "sky_color": {
-      "day": "#44709c",
+      "day": "#658aae",
       "night": "#142941"
     }
   },
@@ -452,7 +452,7 @@
     "group": "Clouds",
     "condition": "overcast clouds: 85-100%",
     "sky_color": {
-      "day": "#557492",
+      "day": "#66809b",
       "night": "#1b253a"
     }
   }
